@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://konterball.com/">Try it here</a>
+  <a href="https://heyitsvivek.github.io/konterball">Try it here</a>
 </p>
 
 ## Introduction
